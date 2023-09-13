@@ -107,9 +107,9 @@ a {
   text-transform: capitalize;
 }
 .team-list {
-  text-align: center;
 }
 .team-employee {
+  background-color: #ffffff;
 }
 .employee-name {
   color: var(--NAVY-BLUE, #2e2f42);
